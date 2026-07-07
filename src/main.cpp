@@ -54,7 +54,7 @@
 // ============================================================
 //  DEFAULTS
 // ============================================================
-#define DEFAULT_DEVICE_NAME   "HumidityDisplay"
+#define DEFAULT_DEVICE_NAME   "Freenove Non-Touch Display"
 #define DEFAULT_CTRL_HOST     "192.168.1.169"   // Humidity Controller IP
 #define DEFAULT_PLANT_HOST    ""                // Plant Monitor IP (empty = disabled)
 
